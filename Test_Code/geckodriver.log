@@ -1,0 +1,430 @@
+1693033731504	geckodriver	INFO	Listening on 127.0.0.1:57909
+1693033734585	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57910" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vinod\\AppData\\Local\\Temp\\rust_mozprofileEX9ckV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693033734803	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693033734851	Marionette	INFO	Listening on port 57917
+WebDriver BiDi listening on ws://127.0.0.1:57910
+Read port: 57917
+1693033735012	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57910/devtools/browser/633ac59e-819a-4adc-8160-98656929ee4a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1693033743033	Marionette	INFO	Stopped listening on port 57917
+JavaScript warning: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449, line 128: Script terminated by timeout at:
+5668/_refresh/this._request<@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:128:367
+
+Dynamically enable window occlusion 1
+[Parent 18488, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 7912, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 18488, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 7912, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 18488, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 7912, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 18488, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 7912, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1693033745544	geckodriver	INFO	Listening on 127.0.0.1:57957
+1693033748629	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57958" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vinod\\AppData\\Local\\Temp\\rust_mozprofileXS6oyI"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693033748846	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693033748892	Marionette	INFO	Listening on port 57965
+WebDriver BiDi listening on ws://127.0.0.1:57958
+Read port: 57965
+1693033749060	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57958/devtools/browser/665c5408-2a15-4d84-b06c-f9187c39b89a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+[Parent 6868, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 6628, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1693033757766	Marionette	INFO	Stopped listening on port 57965
+Dynamically enable window occlusion 1
+[Parent 6868, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 6628, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 6868, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 6628, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 6868, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 6628, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 6868, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 6628, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 6868, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 6628, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1693033759783	geckodriver	INFO	Listening on 127.0.0.1:58004
+1693033762822	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58005" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vinod\\AppData\\Local\\Temp\\rust_mozprofileP6Odx8"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693033763032	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693033763081	Marionette	INFO	Listening on port 58012
+WebDriver BiDi listening on ws://127.0.0.1:58005
+Read port: 58012
+1693033763247	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58005/devtools/browser/ee3452d9-7809-4430-b2ae-d9a5465df682
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+[Parent 19180, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 19868, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1693033781402	Marionette	INFO	Stopped listening on port 58012
+Dynamically enable window occlusion 1
+[Parent 19180, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 19868, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 19180, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 19868, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 19180, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 19868, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 19180, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 19868, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1693033783850	geckodriver	INFO	Listening on 127.0.0.1:58062
+1693033786935	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58063" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vinod\\AppData\\Local\\Temp\\rust_mozprofile5zdxll"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693033787148	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693033787197	Marionette	INFO	Listening on port 58070
+WebDriver BiDi listening on ws://127.0.0.1:58063
+Read port: 58070
+1693033787366	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58063/devtools/browser/8d0362ca-27c3-4e97-91aa-3ed693336bc8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1693033807889	Marionette	INFO	Stopped listening on port 58070
+Dynamically enable window occlusion 1
+[Parent 10696, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 24624, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 10696, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 24624, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 10696, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 24624, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 10696, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 24624, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1693033810075	geckodriver	INFO	Listening on 127.0.0.1:58120
+1693033813140	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58121" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vinod\\AppData\\Local\\Temp\\rust_mozprofile5mlXx4"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693033813356	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693033813402	Marionette	INFO	Listening on port 58129
+WebDriver BiDi listening on ws://127.0.0.1:58121
+Read port: 58129
+1693033813576	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58121/devtools/browser/9bb341fe-bf42-4092-8e58-3db7fe722458
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+[Parent 15300, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 22948, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1693033832902	Marionette	INFO	Stopped listening on port 58129
+Dynamically enable window occlusion 1
+[Parent 15300, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 22948, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 15300, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 22948, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 15300, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 22948, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 15300, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 22948, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1693051505504	geckodriver	INFO	Listening on 127.0.0.1:64166
+1693051508606	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64167" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vinod\\AppData\\Local\\Temp\\rust_mozprofileAYPTzo"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693051508842	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693051508890	Marionette	INFO	Listening on port 64174
+WebDriver BiDi listening on ws://127.0.0.1:64167
+Read port: 64174
+1693051509060	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64167/devtools/browser/ecc493ea-ce82-40ce-a920-9458f0a2009f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+[Parent 19720, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 2224, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1693051518414	Marionette	INFO	Stopped listening on port 64174
+JavaScript warning: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449, line 128: Script terminated by timeout at:
+5668/_refresh/this._request<@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:128:367
+
+Dynamically enable window occlusion 1
+[Parent 19720, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 2224, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 19720, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 2224, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 19720, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 2224, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 19720, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 2224, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1693051520825	geckodriver	INFO	Listening on 127.0.0.1:64216
+1693051523892	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64217" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vinod\\AppData\\Local\\Temp\\rust_mozprofileYRwakF"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693051524114	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693051524162	Marionette	INFO	Listening on port 64225
+WebDriver BiDi listening on ws://127.0.0.1:64217
+Read port: 64225
+1693051524341	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64217/devtools/browser/38b198f1-7fbf-45f9-83a0-3ceb5f0a2630
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1693051532461	Marionette	INFO	Stopped listening on port 64225
+Dynamically enable window occlusion 1
+[Parent 16204, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 21140, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 16204, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 21140, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 16204, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 21140, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 16204, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 21140, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 16204, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[Parent 16204, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 21140, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[GPU 21140, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1693051534284	geckodriver	INFO	Listening on 127.0.0.1:64263
+1693051537374	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64264" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vinod\\AppData\\Local\\Temp\\rust_mozprofileXoJWu9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693051537600	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693051537649	Marionette	INFO	Listening on port 64271
+WebDriver BiDi listening on ws://127.0.0.1:64264
+Read port: 64271
+1693051537829	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64264/devtools/browser/275737eb-6266-40e2-8b7a-66d40d641efd
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+[Parent 23108, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 8, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1693051556395	Marionette	INFO	Stopped listening on port 64271
+Dynamically enable window occlusion 1
+[Parent 23108, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 8, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 23108, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 8, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 23108, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 8, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 23108, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 8, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1693051558673	geckodriver	INFO	Listening on 127.0.0.1:64330
+1693051561740	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64331" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vinod\\AppData\\Local\\Temp\\rust_mozprofileZTmcWK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693051561967	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693051562015	Marionette	INFO	Listening on port 64338
+WebDriver BiDi listening on ws://127.0.0.1:64331
+Read port: 64338
+1693051562189	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64331/devtools/browser/04c94eaa-c0cd-4fb9-ade3-304f85be4cb2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+[Parent 3988, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 2324, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1693051582928	Marionette	INFO	Stopped listening on port 64338
+Dynamically enable window occlusion 1
+[Parent 3988, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 2324, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 3988, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 2324, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 3988, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 2324, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 3988, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 2324, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1693051585265	geckodriver	INFO	Listening on 127.0.0.1:64388
+1693051588302	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64389" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vinod\\AppData\\Local\\Temp\\rust_mozprofilexDCdIq"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693051588546	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693051588597	Marionette	INFO	Listening on port 64408
+WebDriver BiDi listening on ws://127.0.0.1:64389
+Read port: 64408
+1693051588778	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64389/devtools/browser/c4f8ef7c-6ae7-49ab-a50a-faa78e365914
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+[Parent 5312, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 18540, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1693051607240	Marionette	INFO	Stopped listening on port 64408
+Dynamically enable window occlusion 1
+[Parent 5312, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 18540, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 5312, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 18540, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 5312, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 18540, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 5312, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 18540, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 5312, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 18540, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1693467436806	geckodriver	INFO	Listening on 127.0.0.1:58978
+1693467439882	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58979" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vinod\\AppData\\Local\\Temp\\rust_mozprofileL65Uar"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693467440168	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693467440221	Marionette	INFO	Listening on port 58986
+WebDriver BiDi listening on ws://127.0.0.1:58979
+Read port: 58986
+1693467440416	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58979/devtools/browser/fe5451f3-3773-4a2a-ba12-862d7a919be6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1693467449759	Marionette	INFO	Stopped listening on port 58986
+Dynamically enable window occlusion 1
+1693467451926	geckodriver	INFO	Listening on 127.0.0.1:59030
+1693467454999	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59031" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vinod\\AppData\\Local\\Temp\\rust_mozprofilefSJ4Ib"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693467455257	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693467455313	Marionette	INFO	Listening on port 59040
+WebDriver BiDi listening on ws://127.0.0.1:59031
+Read port: 59040
+1693467455434	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59031/devtools/browser/6b2829a6-bbd2-4ad1-a0dc-3bfdc74bbca5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1693467580379	Marionette	INFO	Stopped listening on port 59040
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59084" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vinod\\AppData\\Local\\Temp\\rust_mozprofileqUFXjO"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693467473501	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693467473558	Marionette	INFO	Listening on port 59091
+WebDriver BiDi listening on ws://127.0.0.1:59084
+Read port: 59091
+1693467473682	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59084/devtools/browser/056b280a-51bf-44c7-937a-3a540d1bcd2b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1693467494197	Marionette	INFO	Stopped listening on port 59091
+Dynamically enable window occlusion 1
+1693467496394	geckodriver	INFO	Listening on 127.0.0.1:59145
+1693467499464	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59146" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vinod\\AppData\\Local\\Temp\\rust_mozprofileLGKiU6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693467499719	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693467499772	Marionette	INFO	Listening on port 59154
+WebDriver BiDi listening on ws://127.0.0.1:59146
+Read port: 59154
+1693467499949	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59146/devtools/browser/179bbc9e-e0ea-4cfd-967d-0765c70cd053
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1693467522749	Marionette	INFO	Stopped listening on port 59154
+Dynamically enable window occlusion 1
+console.error: (new AbortError("Actor 'LoginManager' destroyed before query 'PasswordManager:findLogins' was resolved", (void 0)))
+console.error: (new Error("IndexedDB: main/password-recipes list() IndexedDB:  execute() The application is shutting down", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+1693467525071	geckodriver	INFO	Listening on 127.0.0.1:59210
+1693467528128	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59211" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vinod\\AppData\\Local\\Temp\\rust_mozprofileHSxbk1"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693467528384	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693467528441	Marionette	INFO	Listening on port 59218
+WebDriver BiDi listening on ws://127.0.0.1:59211
+Read port: 59218
+1693467528571	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59211/devtools/browser/07fc5556-a70e-4e17-b6ac-0fdf0e1bf584
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1693467548131	Marionette	INFO	Stopped listening on port 59218
+Dynamically enable window occlusion 1
+console.error: (new AbortError("Actor 'LoginManager' destroyed before query 'PasswordManager:findLogins' was resolved", (void 0)))
+console.error: (new Error("IndexedDB: main/password-recipes list() IndexedDB:  execute() The application is shutting down", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+1693467675350	geckodriver	INFO	Listening on 127.0.0.1:59349
+1693467678408	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59350" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vinod\\AppData\\Local\\Temp\\rust_mozprofileXDvXO7"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693467678656	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693467678714	Marionette	INFO	Listening on port 59357
+WebDriver BiDi listening on ws://127.0.0.1:59350
+Read port: 59357
+1693467678845	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59350/devtools/browser/89f53910-5688-43d4-8232-ca24fdbee47a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1693467688363	Marionette	INFO	Stopped listening on port 59357
+Dynamically enable window occlusion 1
+1693467690872	geckodriver	INFO	Listening on 127.0.0.1:59400
+1693467693965	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59401" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vinod\\AppData\\Local\\Temp\\rust_mozprofileza8Rs2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693467694210	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693467694266	Marionette	INFO	Listening on port 59410
+WebDriver BiDi listening on ws://127.0.0.1:59401
+Read port: 59410
+1693467694450	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59401/devtools/browser/7955225e-5bce-4424-ac78-7f3bfcf220a1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1693467702518	Marionette	INFO	Stopped listening on port 59410
+Dynamically enable window occlusion 1
+1693467704695	geckodriver	INFO	Listening on 127.0.0.1:59453
+1693467707772	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59454" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vinod\\AppData\\Local\\Temp\\rust_mozprofilexYbC3D"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693467708030	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693467708085	Marionette	INFO	Listening on port 59461
+WebDriver BiDi listening on ws://127.0.0.1:59454
+Read port: 59461
+1693467708230	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59454/devtools/browser/631cd6aa-37e9-4925-91f5-3112b83fddf9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1693467729050	Marionette	INFO	Stopped listening on port 59461
+Dynamically enable window occlusion 1
+console.error: (new AbortError("Actor 'LoginManager' destroyed before query 'PasswordManager:findLogins' was resolved", (void 0)))
+console.error: (new AbortError("IndexedDB: main/password-recipes list() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+1693467731379	geckodriver	INFO	Listening on 127.0.0.1:59515
+1693467734457	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59516" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vinod\\AppData\\Local\\Temp\\rust_mozprofileFohRz2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693467734705	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693467734762	Marionette	INFO	Listening on port 59523
+WebDriver BiDi listening on ws://127.0.0.1:59516
+Read port: 59523
+1693467734944	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59516/devtools/browser/a405bfa2-584e-4773-8703-b4e1647ca521
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: , line 0: uncaught exception: Object
+1693467756776	Marionette	INFO	Stopped listening on port 59523
+Dynamically enable window occlusion 1
+1693467759298	geckodriver	INFO	Listening on 127.0.0.1:59574
+1693467762394	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59575" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vinod\\AppData\\Local\\Temp\\rust_mozprofilerxmef3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693467762647	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693467762705	Marionette	INFO	Listening on port 59583
+WebDriver BiDi listening on ws://127.0.0.1:59575
+Read port: 59583
+1693467762891	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59575/devtools/browser/65ad9d4a-ab12-4321-8024-c2a30d7ac331
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1693467782646	Marionette	INFO	Stopped listening on port 59583
+Dynamically enable window occlusion 1
+console.error: (new AbortError("Actor 'LoginManager' destroyed before query 'PasswordManager:findLogins' was resolved", (void 0)))
+console.error: (new Error("IndexedDB: main/password-recipes list() IndexedDB:  execute() The application is shutting down", "resource://services-settings/IDBHelpers.sys.mjs", 16))
